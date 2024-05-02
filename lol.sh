@@ -1,6 +1,6 @@
 sudo pacman -U legacylauncher-1.0-1-any.pkg.tar.zst
 sudo tar -xf Bibata-Original-Classic
-sudo cp -r Bibata-Original-Classic /usr/share/icons/
+sudo cp -r Bibata-Original-Classic /usr/share/icons
 sudo unzip cmpack_1.8.8_2.3.2.zip
 sudo cd /home/
 sudo mkdir .minecraft
